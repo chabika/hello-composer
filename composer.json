@@ -8,11 +8,11 @@
     "authors": [
         {
             "name": "Csaba Gergely",
-            "email": "j.boggiano@seld.be",
-            "homepage": "http://seld.be",
-            "role": "Developer"
+            "email": "chabika11@yahoo.com"
         }
+
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {"camelcoding\\HelloWorld\\": "src/"}
     }
