@@ -1,0 +1,19 @@
+{
+    "name": "camelcoding/testproject",
+    "type": "library",
+    "description": "CC test",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Csaba Gergely",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"camelcoding\\HelloWorld\\": "src/"}
+    }
+}
